@@ -1,0 +1,14 @@
+layout_spectrum: 0.05319149
+typography_spectrum: 0.8851064
+color:
+  saturation: 0.928869
+  lightness: 0.3308436
+  brandStrength: 0.3787234
+  brandColors:
+    - '#100A0A'
+    - '#F6E6D7'
+    - '#314238'
+    - '#DF9C33'
+    - '#558C63'
+  rhythmicContrast: 0.6151891
+name: OrpheusWines
