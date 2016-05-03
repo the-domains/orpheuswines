@@ -1,14 +1,26 @@
-layout_spectrum: 0.05319149
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8851064
 color:
   saturation: 0.928869
-  lightness: 0.3308436
   brandStrength: 0.3787234
+  rhythmicContrast: 0.6151891
   brandColors:
     - '#100A0A'
     - '#F6E6D7'
     - '#314238'
     - '#DF9C33'
     - '#558C63'
-  rhythmicContrast: 0.6151891
+  lightness: 0.3308436
+layout_spectrum: 1
 name: OrpheusWines
